@@ -1,0 +1,7 @@
+Codebook of big_data_smaller.groupped.txt
+
+1. column: subject number as defined by subject_test.txt and subject_train.txt data sets
+2. column: activity number (corresponds with activity description in 4. column)
+3. column: original data set (test or training)
+4. column: activity description
+5. to end colmns: columns from the original data sets where the name contains either "mean" or "std". The figures are groupped by subject and type of activity and averaged. 
